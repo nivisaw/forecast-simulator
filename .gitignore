@@ -1,0 +1,18 @@
+# Dependencias de Composer
+/vendor/
+
+# Archivos de configuración sensibles
+/config/config.php
+
+# Caché y archivos de pruebas
+.phpunit.result.cache
+
+# Entornos y agentes IA locales
+/.agents/
+/skills-lock.json
+
+# Archivos de IDE y Sistema Operativo (Opcional pero recomendado)
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
